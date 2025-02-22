@@ -1,0 +1,15 @@
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/bin/Debug/net8.0/20250222 hmmm
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/bin/Debug/net8.0/20250222 hmmm.deps.json
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/bin/Debug/net8.0/20250222 hmmm.runtimeconfig.json
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/bin/Debug/net8.0/20250222 hmmm.dll
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/bin/Debug/net8.0/20250222 hmmm.pdb
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.GeneratedMSBuildEditorConfig.editorconfig
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.AssemblyInfoInputs.cache
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.AssemblyInfo.cs
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.csproj.CoreCompileInputs.cache
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.sourcelink.json
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.dll
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/refint/20250222 hmmm.dll
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.pdb
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/20250222 hmmm.genruntimeconfig.cache
+/home/jitsu/RiderProjects/csharp/20250222 hmmm/obj/Debug/net8.0/ref/20250222 hmmm.dll

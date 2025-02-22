@@ -1,0 +1,15 @@
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/bin/Debug/net8.0/20250220IPsubnetclasslos
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/bin/Debug/net8.0/20250220IPsubnetclasslos.deps.json
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/bin/Debug/net8.0/20250220IPsubnetclasslos.runtimeconfig.json
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/bin/Debug/net8.0/20250220IPsubnetclasslos.dll
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/bin/Debug/net8.0/20250220IPsubnetclasslos.pdb
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.AssemblyInfoInputs.cache
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.AssemblyInfo.cs
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.csproj.CoreCompileInputs.cache
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.sourcelink.json
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.dll
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/refint/20250220IPsubnetclasslos.dll
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.pdb
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/20250220IPsubnetclasslos.genruntimeconfig.cache
+/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/obj/Debug/net8.0/ref/20250220IPsubnetclasslos.dll
