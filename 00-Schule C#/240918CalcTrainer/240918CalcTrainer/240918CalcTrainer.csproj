@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_240918CalcTrainer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="I:\vs2019\240919 switch.cs" Link="240919 switch.cs" />
+  </ItemGroup>
+
+</Project>

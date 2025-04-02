@@ -1,0 +1,16 @@
+I:\vs2019\20241115methode\20241115methode\bin\Debug\net5.0\20241115methode.exe
+I:\vs2019\20241115methode\20241115methode\bin\Debug\net5.0\20241115methode.deps.json
+I:\vs2019\20241115methode\20241115methode\bin\Debug\net5.0\20241115methode.runtimeconfig.json
+I:\vs2019\20241115methode\20241115methode\bin\Debug\net5.0\20241115methode.runtimeconfig.dev.json
+I:\vs2019\20241115methode\20241115methode\bin\Debug\net5.0\20241115methode.dll
+I:\vs2019\20241115methode\20241115methode\bin\Debug\net5.0\ref\20241115methode.dll
+I:\vs2019\20241115methode\20241115methode\bin\Debug\net5.0\20241115methode.pdb
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.csproj.AssemblyReference.cache
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.AssemblyInfoInputs.cache
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.AssemblyInfo.cs
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.csproj.CoreCompileInputs.cache
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.dll
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\ref\20241115methode.dll
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.pdb
+I:\vs2019\20241115methode\20241115methode\obj\Debug\net5.0\20241115methode.genruntimeconfig.cache

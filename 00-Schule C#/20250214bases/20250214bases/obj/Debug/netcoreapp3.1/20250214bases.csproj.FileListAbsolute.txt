@@ -1,0 +1,5 @@
+K:\Raum U D K\utk\20250214bases\20250214bases\obj\Debug\netcoreapp3.1\20250214bases.csproj.AssemblyReference.cache
+K:\Raum U D K\utk\20250214bases\20250214bases\obj\Debug\netcoreapp3.1\20250214bases.GeneratedMSBuildEditorConfig.editorconfig
+K:\Raum U D K\utk\20250214bases\20250214bases\obj\Debug\netcoreapp3.1\20250214bases.AssemblyInfoInputs.cache
+K:\Raum U D K\utk\20250214bases\20250214bases\obj\Debug\netcoreapp3.1\20250214bases.AssemblyInfo.cs
+K:\Raum U D K\utk\20250214bases\20250214bases\obj\Debug\netcoreapp3.1\20250214bases.csproj.CoreCompileInputs.cache

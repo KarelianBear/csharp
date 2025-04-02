@@ -1,0 +1,34 @@
+using System;
+
+namespace _20241022datechecker
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Welcome to Schaltjahrüberprüfer 9000!");
+            string eingabe;
+            int eingabe32;
+            eingabe = Console.ReadLine();
+            eingabe32 = Convert.ToInt32(eingabe);
+
+            if (eingabe32 % 400 == 0 | eingabe32 % 4 == 0 & eingabe32 % 100 != 0)
+            {
+                Console.WriteLine(eingabe + " is a leap year");
+            }
+/*            else if (eingabe32 % 100 == 0)
+            {
+                Console.WriteLine(eingabe32 + " is NOT a leap year.");
+            }*/
+            else
+            {
+                Console.WriteLine(eingabe32 + " is NOT a leap year.");
+            }
+            Console.WriteLine("byee");
+
+
+        }
+    }
+}
+

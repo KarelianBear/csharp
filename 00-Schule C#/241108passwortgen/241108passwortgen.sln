@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "241108passwortgen", "241108passwortgen\241108passwortgen.csproj", "{18374506-E722-45AE-9E4D-2B1BE72595EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18374506-E722-45AE-9E4D-2B1BE72595EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18374506-E722-45AE-9E4D-2B1BE72595EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18374506-E722-45AE-9E4D-2B1BE72595EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18374506-E722-45AE-9E4D-2B1BE72595EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D8B4EF-8AE8-4B83-9F54-8DB5DFCA8E2A}
+	EndGlobalSection
+EndGlobal

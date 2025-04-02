@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20241220ConvertStringToIntMethod", "20241220ConvertStringToIntMethod\20241220ConvertStringToIntMethod.csproj", "{991D6106-AE6C-4991-A57E-BC3B840C00FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991D6106-AE6C-4991-A57E-BC3B840C00FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991D6106-AE6C-4991-A57E-BC3B840C00FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991D6106-AE6C-4991-A57E-BC3B840C00FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991D6106-AE6C-4991-A57E-BC3B840C00FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887FDF53-FA9F-4C2B-A50D-0A5F438B9982}
+	EndGlobalSection
+EndGlobal

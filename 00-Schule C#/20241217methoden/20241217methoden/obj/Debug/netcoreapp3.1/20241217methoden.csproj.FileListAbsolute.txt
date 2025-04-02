@@ -1,0 +1,14 @@
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.csproj.AssemblyReference.cache
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.AssemblyInfoInputs.cache
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.AssemblyInfo.cs
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.csproj.CoreCompileInputs.cache
+I:\vs2019\20241217methoden\20241217methoden\bin\Debug\netcoreapp3.1\20241217methoden.exe
+I:\vs2019\20241217methoden\20241217methoden\bin\Debug\netcoreapp3.1\20241217methoden.deps.json
+I:\vs2019\20241217methoden\20241217methoden\bin\Debug\netcoreapp3.1\20241217methoden.runtimeconfig.json
+I:\vs2019\20241217methoden\20241217methoden\bin\Debug\netcoreapp3.1\20241217methoden.runtimeconfig.dev.json
+I:\vs2019\20241217methoden\20241217methoden\bin\Debug\netcoreapp3.1\20241217methoden.dll
+I:\vs2019\20241217methoden\20241217methoden\bin\Debug\netcoreapp3.1\20241217methoden.pdb
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.dll
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.pdb
+I:\vs2019\20241217methoden\20241217methoden\obj\Debug\netcoreapp3.1\20241217methoden.genruntimeconfig.cache

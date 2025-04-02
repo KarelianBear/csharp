@@ -1,0 +1,16 @@
+I:\vs2019\20250110Lotto\20250110Lotto\bin\Debug\net5.0\20250110Lotto.exe
+I:\vs2019\20250110Lotto\20250110Lotto\bin\Debug\net5.0\20250110Lotto.deps.json
+I:\vs2019\20250110Lotto\20250110Lotto\bin\Debug\net5.0\20250110Lotto.runtimeconfig.json
+I:\vs2019\20250110Lotto\20250110Lotto\bin\Debug\net5.0\20250110Lotto.runtimeconfig.dev.json
+I:\vs2019\20250110Lotto\20250110Lotto\bin\Debug\net5.0\20250110Lotto.dll
+I:\vs2019\20250110Lotto\20250110Lotto\bin\Debug\net5.0\ref\20250110Lotto.dll
+I:\vs2019\20250110Lotto\20250110Lotto\bin\Debug\net5.0\20250110Lotto.pdb
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.csproj.AssemblyReference.cache
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.AssemblyInfoInputs.cache
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.AssemblyInfo.cs
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.csproj.CoreCompileInputs.cache
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.dll
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\ref\20250110Lotto.dll
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.pdb
+I:\vs2019\20250110Lotto\20250110Lotto\obj\Debug\net5.0\20250110Lotto.genruntimeconfig.cache

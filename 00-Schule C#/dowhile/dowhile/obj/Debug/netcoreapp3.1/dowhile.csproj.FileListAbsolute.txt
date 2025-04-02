@@ -1,0 +1,14 @@
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.csproj.AssemblyReference.cache
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.AssemblyInfoInputs.cache
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.AssemblyInfo.cs
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.csproj.CoreCompileInputs.cache
+I:\vs2019\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.exe
+I:\vs2019\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.deps.json
+I:\vs2019\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.runtimeconfig.json
+I:\vs2019\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.runtimeconfig.dev.json
+I:\vs2019\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.dll
+I:\vs2019\dowhile\dowhile\bin\Debug\netcoreapp3.1\dowhile.pdb
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.dll
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.pdb
+I:\vs2019\dowhile\dowhile\obj\Debug\netcoreapp3.1\dowhile.genruntimeconfig.cache

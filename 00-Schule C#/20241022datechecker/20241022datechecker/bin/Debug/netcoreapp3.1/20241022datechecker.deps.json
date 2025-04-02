@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "20241022datechecker/1.0.0": {
+        "runtime": {
+          "20241022datechecker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20241022datechecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

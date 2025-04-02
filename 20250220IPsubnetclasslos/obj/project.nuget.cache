@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gCdEuYcUnX8=",
+  "dgSpecHash": "4DCir8/z/oM=",
   "success": true,
-  "projectFilePath": "/home/jitsu/RiderProjects/csharp/20250220IPsubnetclasslos/20250220IPsubnetclasslos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/fujitsu/RiderProjects/csharp/20250220IPsubnetclasslos/20250220IPsubnetclasslos.csproj",
+  "expectedPackageFiles": [
+    "/home/fujitsu/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/fujitsu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/fujitsu/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,16 @@
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.csproj.AssemblyReference.cache
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.AssemblyInfoInputs.cache
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.AssemblyInfo.cs
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.csproj.CoreCompileInputs.cache
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\bin\Debug\net5.0\20250212subnetcalc.exe
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\bin\Debug\net5.0\20250212subnetcalc.deps.json
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\bin\Debug\net5.0\20250212subnetcalc.runtimeconfig.json
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\bin\Debug\net5.0\20250212subnetcalc.runtimeconfig.dev.json
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\bin\Debug\net5.0\20250212subnetcalc.dll
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\bin\Debug\net5.0\ref\20250212subnetcalc.dll
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\bin\Debug\net5.0\20250212subnetcalc.pdb
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.dll
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\ref\20250212subnetcalc.dll
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.pdb
+I:\vs2019\20250212subnetcalc\20250212subnetcalc\obj\Debug\net5.0\20250212subnetcalc.genruntimeconfig.cache

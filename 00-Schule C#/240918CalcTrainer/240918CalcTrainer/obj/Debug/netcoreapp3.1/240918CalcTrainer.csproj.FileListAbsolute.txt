@@ -1,0 +1,14 @@
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.csproj.AssemblyReference.cache
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.AssemblyInfoInputs.cache
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.AssemblyInfo.cs
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.csproj.CoreCompileInputs.cache
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\bin\Debug\netcoreapp3.1\240918CalcTrainer.exe
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\bin\Debug\netcoreapp3.1\240918CalcTrainer.deps.json
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\bin\Debug\netcoreapp3.1\240918CalcTrainer.runtimeconfig.json
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\bin\Debug\netcoreapp3.1\240918CalcTrainer.runtimeconfig.dev.json
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\bin\Debug\netcoreapp3.1\240918CalcTrainer.dll
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\bin\Debug\netcoreapp3.1\240918CalcTrainer.pdb
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.dll
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.pdb
+I:\vs2019\240918CalcTrainer\240918CalcTrainer\obj\Debug\netcoreapp3.1\240918CalcTrainer.genruntimeconfig.cache

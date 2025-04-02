@@ -1,0 +1,14 @@
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.AssemblyInfoInputs.cache
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.AssemblyInfo.cs
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.csproj.CoreCompileInputs.cache
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\bin\Debug\netcoreapp3.1\241106stringreversemaybe.exe
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\bin\Debug\netcoreapp3.1\241106stringreversemaybe.deps.json
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\bin\Debug\netcoreapp3.1\241106stringreversemaybe.runtimeconfig.json
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\bin\Debug\netcoreapp3.1\241106stringreversemaybe.runtimeconfig.dev.json
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\bin\Debug\netcoreapp3.1\241106stringreversemaybe.dll
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\bin\Debug\netcoreapp3.1\241106stringreversemaybe.pdb
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.dll
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.pdb
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.genruntimeconfig.cache
+I:\vs2019\241106stringreversemaybe\241106stringreversemaybe\obj\Debug\netcoreapp3.1\241106stringreversemaybe.csproj.AssemblyReference.cache

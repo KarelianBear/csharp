@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "20241220ConvertStringToIntMethod/1.0.0": {
+        "runtime": {
+          "20241220ConvertStringToIntMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20241220ConvertStringToIntMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

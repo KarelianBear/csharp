@@ -1,0 +1,15 @@
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/bin/Debug/net9.0/20250301Subnets
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/bin/Debug/net9.0/20250301Subnets.deps.json
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/bin/Debug/net9.0/20250301Subnets.runtimeconfig.json
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/bin/Debug/net9.0/20250301Subnets.dll
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/bin/Debug/net9.0/20250301Subnets.pdb
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.GeneratedMSBuildEditorConfig.editorconfig
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.AssemblyInfoInputs.cache
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.AssemblyInfo.cs
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.csproj.CoreCompileInputs.cache
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.sourcelink.json
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.dll
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/refint/20250301Subnets.dll
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.pdb
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/20250301Subnets.genruntimeconfig.cache
+/home/fujitsu/RiderProjects/csharp/20250301Subnets/20250301Subnets/obj/Debug/net9.0/ref/20250301Subnets.dll

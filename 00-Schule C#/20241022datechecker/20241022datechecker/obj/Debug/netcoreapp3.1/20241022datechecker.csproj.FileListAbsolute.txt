@@ -1,0 +1,14 @@
+I:\vs2019\20241022datechecker\20241022datechecker\bin\Debug\netcoreapp3.1\20241022datechecker.exe
+I:\vs2019\20241022datechecker\20241022datechecker\bin\Debug\netcoreapp3.1\20241022datechecker.deps.json
+I:\vs2019\20241022datechecker\20241022datechecker\bin\Debug\netcoreapp3.1\20241022datechecker.runtimeconfig.json
+I:\vs2019\20241022datechecker\20241022datechecker\bin\Debug\netcoreapp3.1\20241022datechecker.runtimeconfig.dev.json
+I:\vs2019\20241022datechecker\20241022datechecker\bin\Debug\netcoreapp3.1\20241022datechecker.dll
+I:\vs2019\20241022datechecker\20241022datechecker\bin\Debug\netcoreapp3.1\20241022datechecker.pdb
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.csproj.AssemblyReference.cache
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.AssemblyInfoInputs.cache
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.AssemblyInfo.cs
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.csproj.CoreCompileInputs.cache
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.dll
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.pdb
+I:\vs2019\20241022datechecker\20241022datechecker\obj\Debug\netcoreapp3.1\20241022datechecker.genruntimeconfig.cache

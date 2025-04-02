@@ -1,0 +1,5 @@
+I:\vs2019\241108prizon\241108prizon\obj\Debug\netcoreapp3.1\241108prizon.csproj.AssemblyReference.cache
+I:\vs2019\241108prizon\241108prizon\obj\Debug\netcoreapp3.1\241108prizon.GeneratedMSBuildEditorConfig.editorconfig
+I:\vs2019\241108prizon\241108prizon\obj\Debug\netcoreapp3.1\241108prizon.AssemblyInfoInputs.cache
+I:\vs2019\241108prizon\241108prizon\obj\Debug\netcoreapp3.1\241108prizon.AssemblyInfo.cs
+I:\vs2019\241108prizon\241108prizon\obj\Debug\netcoreapp3.1\241108prizon.csproj.CoreCompileInputs.cache
