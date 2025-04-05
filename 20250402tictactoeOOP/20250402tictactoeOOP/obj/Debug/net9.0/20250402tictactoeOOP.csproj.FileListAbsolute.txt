@@ -1,0 +1,15 @@
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/bin/Debug/net9.0/20250402tictactoeOOP
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/bin/Debug/net9.0/20250402tictactoeOOP.deps.json
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/bin/Debug/net9.0/20250402tictactoeOOP.runtimeconfig.json
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/bin/Debug/net9.0/20250402tictactoeOOP.dll
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/bin/Debug/net9.0/20250402tictactoeOOP.pdb
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.AssemblyInfoInputs.cache
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.AssemblyInfo.cs
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.csproj.CoreCompileInputs.cache
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.sourcelink.json
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.dll
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/refint/20250402tictactoeOOP.dll
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.pdb
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/20250402tictactoeOOP.genruntimeconfig.cache
+/home/fujitsu/RiderProjects/csharp/20250402tictactoeOOP/20250402tictactoeOOP/obj/Debug/net9.0/ref/20250402tictactoeOOP.dll
